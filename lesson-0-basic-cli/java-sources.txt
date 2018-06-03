@@ -1,2 +1,0 @@
-src/brymlee/cli/HelloWorldApplication.java
-src/module-info.java
